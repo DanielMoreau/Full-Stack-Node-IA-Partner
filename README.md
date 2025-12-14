@@ -44,3 +44,17 @@ Un hub personnel intelligent (notes, tâches, événements, IA partenaire).
 ## 📬 Contact
 GitHub : https://github.com/DanielMoreau  
 Portfolio : https://danielmoreau.github.io/portfolio
+
+*****
+
+Repository initial créé en septembre 2023.
+
+Ce dépôt marque mes débuts dans les recherches full-stack.
+
+Finalement terminées avec la formation full-stack Node.js et architectures backend.
+
+Le travail abouti, structuré et certifié est visible
+dans le dépôt James et la Suite James (2025).
+
+Ce dépôt est volontairement conservé comme trace
+du chemin parcouru.
